@@ -1,0 +1,13 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Local configuration
+application.properties
+
+# OS files
+.DS_Store
+Thumbs.db
